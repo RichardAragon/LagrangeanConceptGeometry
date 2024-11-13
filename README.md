@@ -1,5 +1,5 @@
 # Lagrangean Concept Geometry (LCG)
-![DALL·E-2024-11-12-20 26](https://github.com/user-attachments/assets/8743be01-5672-4eac-bbfa-4a2636b11d0c)
+![DALL·E 2024-11-13 06 56 21 - A futuristic robot in a lab environment, focusing intently on creating geometric shapes like triangles, squares, and circles on a digital display  The](https://github.com/user-attachments/assets/a363d72d-3a7e-4ef5-aa6c-15be79f34cad)
 
 **Author**: Richard Aragon  
 **Created with assistance from ChatGPT**  
