@@ -1,4 +1,5 @@
 # Lagrangean Concept Geometry (LCG)
+![DALL·E-2024-11-12-20 26](https://github.com/user-attachments/assets/8743be01-5672-4eac-bbfa-4a2636b11d0c)
 
 **Author**: Richard Aragon  
 **Created with assistance from ChatGPT**  
